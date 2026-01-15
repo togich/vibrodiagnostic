@@ -2,7 +2,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/togich/vibrodiagnostic/blob/main/togich_team_example_DWT_discrete_wavelet_transform.ipynb)
 
-https://github.com/togich/vibrodiagnostic/blob/main/togich_team_example_DWT_discrete_wavelet_transform.ipynb
 Пример применения дискретного вейвлет преобразования. Данные получены от двух датчиков вибрации, закрепленных на корпусе винтового компрессора, каждый из которых фиксирует данные по 3-м осям. Каждая ось - 4096 значений за минуту.
 
 ## 🚀 Быстрый старт
