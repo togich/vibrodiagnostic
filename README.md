@@ -1,4 +1,4 @@
-# Название проекта
+# Вибродиагностика винтового компрессора
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/togich/vibrodiagnostic/blob/main/togich_team_example_DWT_discrete_wavelet_transform.ipynb)
 
